@@ -1,4 +1,4 @@
-IMAGE=rosskukulinski/rethinkdb-kubernetes
+IMAGE=simonf/rethinkdb-kubernetes
 TAG=2.3.5-v1
 
 probe:
